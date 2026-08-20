@@ -22,6 +22,7 @@
 - based on the nRF52833
 - USB-C (full speed)
 - 2 GPIOs (1 analog input)
+    - P0.05, P0.11
 - BLE, Thread, Matter, ANT support
 
 <img src="assets/render2.png" alt="render" width="500" />
