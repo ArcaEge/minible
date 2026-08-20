@@ -91,7 +91,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -210,10 +209,29 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6091feeb-533a-4cc0-95e6-f1dd1e8839ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/61d30c23-92cb-453b-a7b7-ccdfdb1c3dc8")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -427,9 +445,30 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C2765186.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "750575cb-638f-4859-a0e3-c7168b5114fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e2dfd1a1-3e15-4498-aba2-335722ac7da0")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "A1B12" "A4B9" "B8" "A5" "B7" "A6" "A7" "B6" "A8" "B5" "B4A9" "B1A12"
+					"13" "14"
+				)
+			)
+		)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
 			(start -5.175 -3.175)
@@ -712,10 +751,29 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3daf9c08-0ebd-4667-a6c0-4e8eb73f5865")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/889216df-ade6-40da-8d6f-df7115cd7e85")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -844,10 +902,29 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe4fb32f-78f3-4b27-91f0-96d097033df9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/b00cdbd9-7f20-4290-8fec-afe7e1603a04")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -976,10 +1053,29 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b64c4e68-176e-4579-9e5b-4652730d7fda")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/c528a9f3-67db-4717-9d57-ef172f5fb589")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -1143,6 +1239,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "01e4ab20-224d-4193-8040-d089bed9829f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C473460.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bd422b0c-535f-42a7-bfae-4123bc4c5f6d")
 			(effects
 				(font
 					(size 1 1)
@@ -1366,9 +1476,29 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C127620.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fc1666c4-37b9-4ade-bc45-29f4667f49d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/ac08fce0-7814-4ab3-be17-506bb60f0356")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1430,6 +1560,8 @@
 			(size 1 1)
 			(layers "B.Cu" "B.Mask")
 			(net "Net-(AE1-FEED)")
+			(pinfunction "FEED_1")
+			(pintype "input")
 			(zone_connect 2)
 			(thermal_bridge_angle 90)
 			(options
@@ -1602,6 +1734,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9fd5b85a-69eb-4b4d-b0ae-f560317e5b80")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C76930.html"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cf5f7db4-ca7f-4ace-9f8d-2031a0b03150")
 			(effects
 				(font
 					(size 1 1)
@@ -1817,6 +1963,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "463bacd3-b646-4f40-b93d-6dc2ee08dc2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C3910459.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "15647f9d-f58a-4b99-8d28-c67d1f893fbd")
 			(effects
 				(font
 					(size 1 1)
@@ -2042,6 +2202,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C307380.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "26845d01-a16a-48c1-99aa-7b3c22aa9598")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/867fd338-230f-44cc-8fe5-9e024cea55b6")
 		(sheetname "/")
@@ -2257,10 +2431,30 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C76930.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fa64f650-8b99-49f1-9d84-7d01c4730c1f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/de119b90-150e-472c-9071-f3f970f6abcc")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -2458,6 +2652,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "efbb48a8-6443-4033-aea2-ea9d8e541fef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C272870.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5210e327-3f34-47b9-bf6b-59350265fec8")
 			(effects
 				(font
 					(size 1 1)
@@ -2681,6 +2889,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C52109740.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f7a85075-1680-4fc6-b500-64a703c6d2fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/2aa57e01-0815-416d-8982-79c1c3b98e31")
 		(sheetname "/")
@@ -2869,10 +3091,30 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C49158176.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a151c968-b981-4016-802a-f6cb1c1f369c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Crystal*")
 		(path "/bd8a1495-b236-49b9-a348-2a46c265a7d6")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "4" "3")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -3079,6 +3321,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "da69df65-f071-4a7f-ba81-85f22ef4f846")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C473460.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f7d92eff-5c27-4130-8229-51a48030ab95")
 			(effects
 				(font
 					(size 1 1)
@@ -3302,6 +3558,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C50391.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "38ec02ec-6b95-4f9e-bc3c-748f1aa112f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9a44f2b3-1589-4bce-98a6-680b7154351d")
 		(sheetname "/")
@@ -3517,10 +3787,33 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C2895249.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d74453c5-59c1-4b95-8622-5b7ca9ef5082")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "QFN*1EP*5x5mm*P0.4mm*")
 		(path "/feac2240-7944-44e9-92bd-854aa7145dc5")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "24" "28" "29" "16" "20" "19" "1" "27" "38" "21" "26" "11" "8"
+					"30" "40" "18" "41" "37" "9" "25" "10" "39" "2" "3" "32" "31" "4" "5"
+					"22" "23" "7" "14" "15" "17" "33" "34" "35" "36" "6" "12" "13"
+				)
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4394,6 +4687,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C48642883.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "80a4effb-93a0-4cee-b441-6dc27b449be5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/e0c1595e-1635-40af-9f54-a1a9c7daf13a")
 		(sheetname "/")
@@ -4609,10 +4916,30 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C76930.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1c49815a-e54a-45ba-9fff-6aae5c733b21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1ede9a95-943b-487f-8fd0-75605e0b746e")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -4818,10 +5145,30 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C50391.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "75789d14-8190-413c-bca1-fd9898a23804")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5af0f2d4-e88d-4252-bd3e-c7882279b260")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -5027,6 +5374,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C76930.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6bc3c5bd-339e-4af1-9f61-4f58c57252af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5961fd87-6b88-40c4-814e-835c9cd2b1d0")
 		(sheetname "/")
@@ -5205,10 +5566,30 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "92ddadb2-2e7f-4035-a12a-c4d10b5e559b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/e0b58f2f-058d-46c9-aec3-76f0ec18f6f5")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -5373,6 +5754,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8826f397-bff0-4722-af1f-9f0c738954f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C2836759.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1e8c56cd-5eec-4d7d-902b-da99d039ffe2")
 			(effects
 				(font
 					(size 1 1)
@@ -5596,6 +5991,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C20069198.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e179db51-179c-4f55-89ff-89a9072acfd4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/ec47b4e9-df88-4ccc-bc74-db96f6477fd3")
 		(sheetname "/")
@@ -5774,10 +6183,30 @@
 				(justify mirror)
 			)
 		)
+		(property "Supplier Part URL" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2669ec71-86df-445f-9341-7abdb0c93f39")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/0401fb60-4e6b-43a2-8419-48313205b32d")
 		(sheetname "/")
 		(sheetfile "minible.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect

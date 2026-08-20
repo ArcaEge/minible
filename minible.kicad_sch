@@ -4499,6 +4499,17 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" ""
+			(at 45.72 149.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7a71f12f-b28f-460f-8249-8174ebfee4de")
 		)
@@ -4609,6 +4620,17 @@
 			)
 		)
 		(property "Supplier" "LCSC"
+			(at 261.62 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C2836759.html"
 			(at 261.62 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -4810,6 +4832,17 @@
 			)
 		)
 		(property "Supplier" "LCSC"
+			(at 261.62 24.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C76930.html"
 			(at 261.62 24.13 90)
 			(hide yes)
 			(show_name no)
@@ -5100,6 +5133,17 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C473460.html"
+			(at 245.11 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "93297276-d3fd-4ae7-942d-b170a5138099")
 		)
@@ -5214,6 +5258,17 @@
 			)
 		)
 		(property "Supplier Part" "C52109740"
+			(at 196.85 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C52109740.html"
 			(at 196.85 34.29 90)
 			(hide yes)
 			(show_name no)
@@ -5504,6 +5559,17 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C76930.html"
+			(at 261.62 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f70df049-d2b3-42cc-a57f-99416a61c37b")
 		)
@@ -5629,6 +5695,17 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C50391.html"
+			(at 201.93 74.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a3103fcd-0a6e-4e31-beb2-77c1e1d54645")
 		)
@@ -5723,6 +5800,17 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 96.52 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" ""
 			(at 96.52 27.94 90)
 			(hide yes)
 			(show_name no)
@@ -5843,6 +5931,17 @@
 			)
 		)
 		(property "Supplier" "LCSC"
+			(at 261.62 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C272870.html"
 			(at 261.62 77.47 90)
 			(hide yes)
 			(show_name no)
@@ -6054,6 +6153,17 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C473460.html"
+			(at 245.11 147.32 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2e4cedab-1c25-4407-a431-0a40409a15f7")
 		)
@@ -6167,6 +6277,17 @@
 			)
 		)
 		(property "Supplier" "LCSC"
+			(at 261.62 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C307380.html"
 			(at 261.62 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -6301,6 +6422,17 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C3910459.html"
+			(at 179.07 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b40a4e84-885a-4d99-945e-8cf4d8937a99")
 		)
@@ -6395,6 +6527,17 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 130.81 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" ""
 			(at 130.81 68.58 90)
 			(hide yes)
 			(show_name no)
@@ -6516,6 +6659,17 @@
 			)
 		)
 		(property "Supplier" "LCSC"
+			(at 201.93 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C50391.html"
 			(at 201.93 85.09 90)
 			(hide yes)
 			(show_name no)
@@ -6651,6 +6805,17 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C127620.html"
+			(at 208.28 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5dba4419-dd20-4742-9f11-97e4b4acb8f6")
 		)
@@ -6742,6 +6907,17 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 132.08 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" ""
 			(at 132.08 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -6864,6 +7040,17 @@
 			)
 		)
 		(property "Supplier" "LCSC"
+			(at 194.31 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C49158176.html"
 			(at 194.31 80.01 90)
 			(hide yes)
 			(show_name no)
@@ -7061,6 +7248,17 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" ""
+			(at 87.63 182.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f9980f82-a59f-45cd-bd7c-938d3f325ce6")
 		)
@@ -7171,6 +7369,17 @@
 			)
 		)
 		(property "Supplier" "LCSC"
+			(at 261.62 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C76930.html"
 			(at 261.62 31.75 90)
 			(hide yes)
 			(show_name no)
@@ -7304,6 +7513,17 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C76930.html"
+			(at 261.62 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f9ce009c-6752-4407-b01f-24d6e498685e")
 		)
@@ -7396,6 +7616,17 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 45.72 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" ""
 			(at 45.72 152.4 90)
 			(hide yes)
 			(show_name no)
@@ -7519,6 +7750,17 @@
 			)
 		)
 		(property "Supplier" "LCSC"
+			(at 187.96 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C48642883.html"
 			(at 187.96 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7686,6 +7928,17 @@
 				)
 			)
 		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C2765186.html"
+			(at 264.16 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "B8"
 			(uuid "68bfef41-ac20-43f7-a9b9-3a28b21a00a9")
 		)
@@ -7838,6 +8091,17 @@
 			)
 		)
 		(property "Supplier" "LCSC"
+			(at 170.18 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C20069198.html"
 			(at 170.18 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8121,6 +8385,17 @@
 			)
 		)
 		(property "Supplier" "LCSC"
+			(at 90.17 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part URL" "https://www.lcsc.com/product-detail/C2895249.html"
 			(at 90.17 104.14 0)
 			(hide yes)
 			(show_name no)
