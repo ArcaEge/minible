@@ -560,7 +560,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/arca/Desktop/plotted/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -757,7 +757,7 @@
         "uuid": "84fae55a-a767-4f14-a855-ff8242a6410c"
       }
     ],
-    "used_designators": "U1-2,AE1-2,C1-19,#PWR1-14,Y1-2,USB1,R1-2,TP1-8,L1-4",
+    "used_designators": "L1-4,TP1-8,R1-2,USB1,Y1-2,#PWR1-14,C1-19,AE1-2,U1-2",
     "variants": []
   },
   "sheets": [
