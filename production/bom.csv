@@ -1,15 +1,15 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-AE1,1206,1,Antenna_Chip,
-C10,0201,1,100pF,
-"C11, C3, C5, C8",0201,4,1uF,
-C13,0201,1,820pF,
-C14,0201,1,1pF,
-C15,0201,1,1.2pF,
-"C16, C17",0201,2,12pF,
-C9,0201,1,100nF,
-L1,0201,1,4.7nH,
-L2,0201,1,2.2nH,
-"R1, R2",0201,2,5K1,
-U2,QFN-40-1EP_5x5mm_P0.4mm_EP3.6x3.6mm,1,nRF52833_QDxx,
-USB1,USB-C-SMD_TYPE-C-16PIN-2MD-073,1,~,
-Y2,Crystal_SMD_2016-4Pin_2.0x1.6mm,1,Crystal_GND24,
+"Reference","Qty","Value","Supplier","Supplier Part","Supplier Part URL","Footprint","Datasheet"
+"AE1","1","Antenna_Chip","LCSC","C127620","https://www.lcsc.com/product-detail/C127620.html","Resistor_SMD:R_1206_3216Metric",""
+"C3,C5,C8,C11","4","1uF","LCSC","C76930","https://www.lcsc.com/product-detail/C76930.html","Capacitor_SMD:C_0201_0603Metric",""
+"C9","1","100nF","LCSC","C307380","https://www.lcsc.com/product-detail/C307380.html","Capacitor_SMD:C_0201_0603Metric",""
+"C10","1","100pF","LCSC","C272870","https://www.lcsc.com/product-detail/C272870.html","Capacitor_SMD:C_0201_0603Metric",""
+"C13","1","820pF","LCSC","C2836759","https://www.lcsc.com/product-detail/C2836759.html","Capacitor_SMD:C_0201_0603Metric",""
+"C14","1","1pF","LCSC","C20069198","https://www.lcsc.com/product-detail/C20069198.html","Capacitor_SMD:C_0201_0603Metric",""
+"C15","1","1.2pF","LCSC","C48642883","https://www.lcsc.com/product-detail/C48642883.html","Capacitor_SMD:C_0201_0603Metric",""
+"C16,C17","2","12pF","LCSC","C50391","https://www.lcsc.com/product-detail/C50391.html","Capacitor_SMD:C_0201_0603Metric",""
+"L1","1","4.7nH","LCSC","C3910459","https://www.lcsc.com/product-detail/C3910459.html","Inductor_SMD:L_0201_0603Metric",""
+"L2","1","2.2nH","LCSC","C52109740","https://www.lcsc.com/product-detail/C52109740.html","Inductor_SMD:L_0201_0603Metric",""
+"R1,R2","2","5K1","LCSC","C473460","https://www.lcsc.com/product-detail/C473460.html","Resistor_SMD:R_0201_0603Metric",""
+"U2","1","nRF52833_QDxx","LCSC","C2895249","https://www.lcsc.com/product-detail/C2895249.html","Package_DFN_QFN:QFN-40-1EP_5x5mm_P0.4mm_EP3.6x3.6mm","https://infocenter.nordicsemi.com/pdf/nRF52833_PS_v1.5.pdf"
+"USB1","1","","LCSC","C2765186","https://www.lcsc.com/product-detail/C2765186.html","EasyEDA_Lib:USB-C-SMD_TYPE-C-16PIN-2MD-073","https://item.szlcsc.com/datasheet/TYPE-C%252016PIN%25202MD(073)/2901843.html"
+"Y2","1","Crystal_GND24","LCSC","C49158176","https://www.lcsc.com/product-detail/C49158176.html","Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm","https://www.lcsc.com/datasheet/C49158176.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.2.xh&lcsc_vid=QVhdVQUAQwRcBFcHFFMMBFEAEVENVVYERwdYVwIERFExVlNeQFBaVV1XRlZZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktTQ1JADxALGw%3D%3D"
