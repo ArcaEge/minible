@@ -2788,17 +2788,6 @@
 		)
 		(uuid "e9737389-c6cb-461b-b9cf-29bc3ed80d9a")
 	)
-	(text "18-30"
-		(exclude_from_sim no)
-		(at 249.936 46.99 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "311d4e25-10c8-4ca3-958a-ffa6a74adc9e")
-	)
 	(text "40-8"
 		(exclude_from_sim no)
 		(at 250.19 31.75 0)
@@ -2886,12 +2875,6 @@
 			(justify left top)
 		)
 		(uuid "eb8dd11c-0f8b-46e3-9db8-f48a803e2c0f")
-	)
-	(junction
-		(at 271.78 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0077e26f-e288-4d7b-8115-d349d90d48c1")
 	)
 	(junction
 		(at 208.28 85.09)
@@ -3871,16 +3854,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 46.99) (xy 257.81 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb9ca7f5-254a-47cb-9b60-bb1dea796d7e")
-	)
-	(wire
-		(pts
 			(xy 242.57 142.24) (xy 254 142.24)
 		)
 		(stroke
@@ -4051,7 +4024,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 31.75) (xy 271.78 46.99)
+			(xy 271.78 31.75) (xy 271.78 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4131,16 +4104,6 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 46.99) (xy 271.78 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0ae1dd3-c4d0-42d7-8be5-a1e65b5d6c6a")
-	)
-	(wire
-		(pts
 			(xy 123.19 116.84) (xy 130.81 116.84)
 		)
 		(stroke
@@ -4168,16 +4131,6 @@
 			(type default)
 		)
 		(uuid "f96e6b5e-d6ba-4e8f-b372-03f96d486d9d")
-	)
-	(wire
-		(pts
-			(xy 271.78 46.99) (xy 271.78 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fec25cc4-6969-49e2-a6ed-5aeb4445f31e")
 	)
 	(label "DEC3"
 		(at 248.92 77.47 0)
@@ -4780,7 +4733,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "1uF"
 			(at 265.43 22.098 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4790,7 +4743,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 265.43 23.1648 0)
 			(hide yes)
 			(show_name no)
@@ -4823,7 +4776,7 @@
 				)
 			)
 		)
-		(property "Supplier Part" "C318563"
+		(property "Supplier Part" "C76930"
 			(at 261.62 24.13 90)
 			(hide yes)
 			(show_name no)
@@ -5360,107 +5313,6 @@
 			(project "minible"
 				(path "/84fae55a-a767-4f14-a855-ff8242a6410c"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 130.81 116.84 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4328e4ea-fba7-46c9-becb-7ff01cb8842f")
-		(property "Reference" "TP3"
-			(at 135.89 115.5699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 135.89 118.1099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
-			(at 130.81 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 130.81 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 130.81 116.84 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.1" ""
-			(at 130.81 116.84 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "966ee34e-f891-48cf-a6c9-13de2c1ec557")
-		)
-		(instances
-			(project "minible"
-				(path "/84fae55a-a767-4f14-a855-ff8242a6410c"
-					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -6567,129 +6419,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 261.62 46.99 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "91074e5e-804c-45a7-ad3b-ad02c31a6980")
-		(property "Reference" "C6"
-			(at 264.922 42.418 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100nF"
-			(at 265.43 44.958 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 265.43 46.0248 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 261.62 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 261.62 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part" "C307380"
-			(at 261.62 46.99 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 261.62 46.99 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.1" ""
-			(at 261.62 46.99 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 261.62 46.99 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "5debd002-8588-4317-990f-68c24611dbca")
-		)
-		(pin "1"
-			(uuid "bfb4469b-f13d-4d50-9e0c-daf2f4aad55b")
-		)
-		(instances
-			(project "minible"
-				(path "/84fae55a-a767-4f14-a855-ff8242a6410c"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 201.93 85.09 90)
 		(mirror x)
 		(unit 1)
@@ -7246,85 +6975,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VDD")
-		(at 248.92 46.99 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c29a85e9-9c9c-484a-973d-9614cb936607")
-		(property "Reference" "#PWR09"
-			(at 252.73 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 245.11 46.9899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 248.92 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 248.92 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 248.92 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c4d02240-50b4-4b9b-86fb-d78711b9b8c7")
-		)
-		(instances
-			(project "minible"
-				(path "/84fae55a-a767-4f14-a855-ff8242a6410c"
-					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 87.63 182.88 90)
 		(unit 1)
@@ -7418,105 +7068,6 @@
 			(project "minible"
 				(path "/84fae55a-a767-4f14-a855-ff8242a6410c"
 					(reference "TP7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 132.08 50.8 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "c5a23f88-5a5f-4d63-918a-b862ef8b4fe3")
-		(property "Reference" "TP1"
-			(at 135.382 45.72 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 135.382 48.26 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
-			(at 132.08 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 132.08 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 132.08 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 132.08 50.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.1" ""
-			(at 132.08 50.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "138049b2-82bb-4f80-b9fe-f5955b873ddc")
-		)
-		(instances
-			(project "minible"
-				(path "/84fae55a-a767-4f14-a855-ff8242a6410c"
-					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -7666,7 +7217,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "1uF"
 			(at 265.43 60.198 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7676,7 +7227,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 265.43 61.2648 0)
 			(hide yes)
 			(show_name no)
@@ -7709,7 +7260,7 @@
 				)
 			)
 		)
-		(property "Supplier Part" "C318563"
+		(property "Supplier Part" "C76930"
 			(at 261.62 62.23 90)
 			(hide yes)
 			(show_name no)
